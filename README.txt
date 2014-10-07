@@ -1,5 +1,5 @@
 This is the Hello World example from the git tutorial.
-Это пример для Гита.
+Р§С‚Рѕ С‚Рѕ РїРѕ-СЂСѓСЃСЃРєРё.
 
 This is the Hello World example from the git tutorial.
 (changed in original)
